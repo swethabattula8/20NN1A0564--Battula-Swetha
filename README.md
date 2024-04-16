@@ -52,6 +52,3 @@ https://www.tableau.com/en-gb/products/desktop/download
 
 1. Jupyter notebook: Run each cell step by step to understand the process.
 
-# Tableau links:
-
-https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/IndiaCropProduction_16888992946190/PopulationvsProductionGrowth
